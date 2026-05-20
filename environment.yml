@@ -1,0 +1,17 @@
+name: bioactivity-prediction
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy=1.26
+  - scikit-learn
+  - matplotlib
+  - rdkit
+  - umap-learn
+  - snakemake-minimal
+  - jupyterlab
+  - pip
