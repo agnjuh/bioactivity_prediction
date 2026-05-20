@@ -1,4 +1,4 @@
-# Bioactivity Prediction
+# Bioactivity prediction --- pharmbio project
 
 Computational analysis of small-molecule bioactivity using chemical descriptors, dimensionality reduction, and machine learning models.
 
