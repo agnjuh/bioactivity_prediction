@@ -1,0 +1,3 @@
+Threshold,Best_AUC,Best_n_estimators,Best_max_depth,Best_min_samples_leaf
+Ki < 1000 nM,0.9355755542748493,300,,1
+Ki < 100 nM,0.8731235142258825,300,,1

@@ -1,0 +1,7 @@
+Threshold,Model,AUC
+Ki < 1000 nM,Logistic regression,0.9181689057229094
+Ki < 1000 nM,Random forest,0.9427442741315026
+Ki < 1000 nM,Gradient boosting,0.887740427294786
+Ki < 100 nM,Logistic regression,0.8423225942910983
+Ki < 100 nM,Random forest,0.9241465009181544
+Ki < 100 nM,Gradient boosting,0.8506941440012306
